@@ -1,0 +1,23 @@
+
+const PRODUCTS = [
+{id:1,name:"Mustaard Meadow",category:"Dresses",badge:"Featured",price:3499,img:"assets/product-1.jpg",desc:"A richly printed three-piece inspired by warm meadow tones, presented with an elegant dupatta and refined detailing."},
+{id:2,name:"Ikat Bloom",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-2.jpg",desc:"A statement floral-print silhouette with a flowing dupatta and an easy, polished finish."},
+{id:3,name:"Sage Garden",category:"Dresses",badge:"",price:3499,img:"assets/product-3.jpg",desc:"Soft neutral florals and classic tailoring make this a versatile day-to-evening edit."},
+{id:4,name:"Mehfil Classic",category:"Dresses",badge:"",price:3499,img:"assets/product-4.jpg",desc:"A sophisticated printed ensemble with a coordinated dupatta and timeless festive character."},
+{id:5,name:"Lavender Mist",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-5.jpg",desc:"An airy lavender print designed for graceful movement and effortless everyday elegance."},
+{id:6,name:"Blue Whisper",category:"Dresses",badge:"",price:3499,img:"assets/product-6.jpg",desc:"A cool-toned blue set with delicate pattern work and a refined, easy silhouette."},
+{id:7,name:"Citrus Bloom",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-7.jpg",desc:"Bright citrus florals bring fresh energy to this polished three-piece collection."},
+{id:8,name:"Midnight Floral",category:"Dresses",badge:"",price:3499,img:"assets/product-8.jpg",desc:"A deep floral palette balanced with soft contrast and an elegant matching dupatta."},
+{id:9,name:"Lilac Garden",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-9.jpg",desc:"A romantic lilac floral edit with coordinated pieces for a complete occasion look."},
+{id:10,name:"Turquoise Bloom",category:"Dresses",badge:"",price:3499,img:"assets/product-10.jpg",desc:"Fresh turquoise florals and a flowing cut create a vibrant statement for daytime occasions."},
+{id:11,name:"Blue Flora",category:"Dresses",badge:"",price:3499,img:"assets/product-11.jpg",desc:"A classic blue floral composition with a crisp palette and graceful drape."},
+{id:12,name:"Lavender Grace",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-12.jpg",desc:"A soft lavender ensemble with a dreamy floral print and sophisticated finish."},
+{id:13,name:"Aqua Meadow",category:"Dresses",badge:"",price:3499,img:"assets/product-13.jpg",desc:"A flowing aqua floral look that pairs relaxed comfort with a dressed-up feel."},
+{id:14,name:"Royal Garden",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-14.jpg",desc:"A jewel-toned floral set made for standout festive dressing."},
+{id:15,name:"Emerald Muse",category:"Dresses",badge:"",price:3499,img:"assets/product-15.jpg",desc:"A rich green statement silhouette with vibrant print work and elegant proportions."},
+{id:16,name:"Petal Pink",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-16.jpg",desc:"Soft pink florals create a feminine, polished look with a coordinated dupatta."},
+{id:17,name:"Ocean Mosaic",category:"Dresses",badge:"",price:3499,img:"assets/product-17.jpg",desc:"A modern aqua print with a flowing silhouette for easy statement dressing."},
+{id:18,name:"Blue Serenity",category:"Dresses",badge:"",price:3499,img:"assets/product-18.jpg",desc:"A calm blue floral palette with classic tailoring and understated detail."},
+{id:19,name:"Monochrome Muse",category:"New Arrivals",badge:"New",price:3499,img:"assets/product-19.jpg",desc:"A refined monochrome-inspired ensemble with a sophisticated, contemporary mood."},
+{id:20,name:"Verdant Bloom",category:"Dresses",badge:"",price:3499,img:"assets/product-20.jpg",desc:"Vivid botanical tones and an elegant cut make this a confident wardrobe statement."},
+];

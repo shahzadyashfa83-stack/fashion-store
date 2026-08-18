@@ -1,121 +1,31 @@
-# 👗 Neena’s Wear
+# Neena's Wear — Multi-Page 3D Fashion Website
 
-**Style Speaks You ✨**
+A frontend-only, multi-page fashion showcase for Neena's Wear.
 
-Neena’s Wear is a modern and elegant women's fashion e-commerce website designed to showcase stylish dresses and new arrivals through a premium, responsive interface.
+## Pages
+- `index.html` — Home / hero / featured pieces
+- `dresses.html` — Full catalog with filters
+- `new-arrivals.html` — New arrivals
+- `about.html` — Brand story
+- `contact.html` — Contact + Instagram ordering
 
-## 🌸 Features
+## Assets
+All product photos from the supplied fashion-product archive are used in `assets/`.
+The supplied Neena's Wear logo is also included.
 
-* ✨ Modern and elegant fashion UI
-* 📱 Fully responsive design for desktop, tablet, and mobile
-* 👗 Dresses and New Arrivals sections
-* 🛍️ Interactive shopping cart
-* 📸 Product image showcases
-* 💫 Smooth animations and hover effects
-* 📱 Mobile-friendly navigation
-* ❤️ Interactive product elements
-* 📩 Instagram-based checkout
-* ♿ Reduced-motion support
-* ⚡ Optimized mobile interactions
+## Features
+- Responsive multi-page navigation
+- 3D product card tilt using Vanilla Tilt
+- Product quick-view modal
+- Persistent cart using localStorage
+- Checkout CTA to the existing Neena's Wear Instagram profile
+- Real supplied product photography
+- Premium cream / blush / gold visual system
+- No backend required
 
-## 📄 Pages
+## Run
+Open `index.html` in a browser, or deploy the folder to Netlify/Vercel/GitHub Pages.
 
-* **Home** — `index.html`
-* **About** — `about.html`
-* **Dresses** — `dresses.html`
-* **New Arrivals** — `new-arrivals.html`
-* **Contact** — `contact.html`
-
-## 🛠️ Technologies Used
-
-* HTML5
-* CSS3
-* JavaScript
-* Responsive Design
-* CSS Animations
-* Vanilla JavaScript
-
-## 📱 Responsive Design
-
-The website is optimized for:
-
-* 📱 Mobile — 375px+
-* 📱 Large Mobile — 390–430px
-* 📲 Tablet — 576–991px
-* 💻 Desktop — 992px+
-
-The mobile layout includes responsive navigation, product grids, cart drawer behavior, touch-friendly controls, and optimized animations.
-
-## 🎨 Design
-
-Neena’s Wear uses a premium fashion-inspired visual style with:
-
-* Elegant typography
-* Soft luxury aesthetics
-* Product-focused layouts
-* Smooth transitions
-* Modern cards
-* Responsive spacing
-* Interactive UI elements
-
-## 🚀 Getting Started
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/neenas-wear.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-No backend or database is required.
-
-## 📂 Project Structure
-
-```text
-neenas-wear/
-│
-├── index.html
-├── about.html
-├── dresses.html
-├── new-arrivals.html
-├── contact.html
-├── css/
-├── js/
-├── images/
-└── README.md
-```
-
-## 🛍️ Checkout
-
-The website uses an Instagram-based checkout flow instead of a traditional payment gateway. Customers can explore products and contact the brand through Instagram to place their order.
-
-## 🌐 Live Website
-
-**Neena’s Wear:**
-https://peaceful-froyo-39034f.netlify.app/
-
-## 📌 Future Improvements
-
-* Product search and filtering
-* Wishlist functionality
-* User accounts
-* Online payment integration
-* Backend product management
-* Order tracking
-* Product reviews
-
-## 👩‍💻 Author
-
-**Neena’s Wear**
-
-Built with ❤️ using HTML, CSS & JavaScript.
-
----
-
-### ⭐ If you like this project
-
-Give the repository a **star ⭐** and feel free to explore the code!
-
+## Instagram
+The checkout/contact buttons use the Instagram profile already present in the original website:
+https://www.instagram.com/neenaaz_collection6678/
